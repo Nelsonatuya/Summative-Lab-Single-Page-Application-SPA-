@@ -1,4 +1,4 @@
-const validateWord = require("../../src/word-validation");
+const validateWord = require("../src/word-validation");
 
 test("rejects empty input", () => {
   expect(validateWord(" ").valid).toBe(false);
