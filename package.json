@@ -1,0 +1,20 @@
+{
+  "name": "summative-lab-single-page-application-spa-",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nelsonatuya/Summative-Lab-Single-Page-Application-SPA-.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Nelsonatuya/Summative-Lab-Single-Page-Application-SPA-/issues"
+  },
+  "homepage": "https://github.com/Nelsonatuya/Summative-Lab-Single-Page-Application-SPA-#readme",
+  "description": ""
+}
